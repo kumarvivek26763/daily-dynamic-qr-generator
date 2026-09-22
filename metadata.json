@@ -1,0 +1,6 @@
+{
+  "name": "Daily Dynamic QR Code Generator",
+  "description": "Offline-first daily dynamic QR code generator that automatically updates with device local date, supports batch loop generation, local folder export, and standalone Java automation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
